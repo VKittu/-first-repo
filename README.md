@@ -1,5 +1,4 @@
 # rent-my-car (MERN)
-
 Production-ready MERN starter for car rental with JWT auth, admin management, bookings, and Stripe/Razorpay-capable payment flows.
 
 ## Project Structure
